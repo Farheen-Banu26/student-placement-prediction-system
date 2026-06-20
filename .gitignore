@@ -1,0 +1,44 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+student.db
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts (optional)
+# model.pkl
+# features.pkl
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# ML artifacts
+StudentPlacementPrediction/model.pkl
+StudentPlacementPrediction/features.pkl
+
+# Database
+StudentPlacementPrediction/student.db
+
+# Environment files
+.env
